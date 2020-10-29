@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['assets.vercel.com'],
+    domains: ['assets.vercel.com', 'datocms-assets.com'],
   },
 }
