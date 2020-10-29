@@ -43,7 +43,7 @@ const Index = () => (
         src="https://www.datocms-assets.com/36795/1585207275-image-33-copyright.jpg"
         width={1920}
         height={1080}
-        unoptimized={true}
+        unoptimized={false}
       />
       <hr className={styles.hr} />
       Checkout the documentation for{' '}
