@@ -40,7 +40,7 @@ const Index = () => (
       </p>
       <Image
         alt="Next.js logo"
-        src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"
+        src="https://www.datocms-assets.com/36795/1585207275-image-33-copyright.jpg"
         width={1200}
         height={400}
       />
