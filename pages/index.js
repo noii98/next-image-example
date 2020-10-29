@@ -40,7 +40,7 @@ const Index = () => (
       </p>
       <Image
         alt="dato test"
-        src="https://www.datocms-assets.com/36795/1585207275-image-33-copyright.jpg"
+        src="1585207275-image-33-copyright.jpg"
         width={1920}
         height={1080}
         unoptimized={false}
